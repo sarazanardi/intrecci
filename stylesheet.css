@@ -178,8 +178,9 @@ p1 a{
 }
 
 h2{
-font-family: "Tarzana Narrow";
-font-size: 20px;
+font-family: 'Roboto Slab', serif;
+font-size: 16px;
+letter-spacing: 0.7px;
 width: 700px;
 margin-top: 13px;
 color: white;
