@@ -93,15 +93,15 @@ $(".img23").click( function () {
 
 $(".img29").click( function () {
   $(this).toggleClass("slideshow")
-  $(".img30, .img31").toggleClass("noshow")
+  $(".img30, .img34").toggleClass("noshow")
 })
 
 $(".img30").click( function () {
   $(this).toggleClass("slideshow")
-  $(".img29, .img31").toggleClass("noshow")
+  $(".img29, .img34").toggleClass("noshow")
 })
 
-$(".img31").click( function () {
+$(".img34").click( function () {
   $(this).toggleClass("slideshow")
   $(".img30, .img29").toggleClass("noshow")
 })
