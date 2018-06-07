@@ -665,6 +665,12 @@ p3{
   position: relative;
 }
 
+.img34{
+  background-image: url(perugia1.jpg);
+  position: relative;
+}
+
+
 .slideshow{
   position: relative;
   left: calc(50% - 170px);
