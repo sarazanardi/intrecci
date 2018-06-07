@@ -667,7 +667,9 @@ p3{
 
 .img34{
   background-image: url(perugia1.jpg);
-  position: relative;
+  height: 300px;
+  background-size: cover;
+  position: relative;;
 }
 
 
